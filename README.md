@@ -1,2 +1,2 @@
 # netfxfixer
-some iso's doesnt have netfx 3.5 and 2.0 so that is download required netfx35&amp;20 with offline install using dism
+the cab files from windows 10 1809 iso and sourcex/sxs (if i can add cab files there project finally finish but i cant push files thereeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee smh(i need to push cause of 25mb greater files cant upload))
